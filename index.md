@@ -42,8 +42,6 @@
 </head>
 <body>
 
-
-
   <section class="hero">
     <div class="hero-body">
             <div class="is-size-5 publication-authors">
