@@ -51,7 +51,6 @@
               <!-- Paper authors -->
               <span class="author-block"></span>
               <a target="_blank">Miao Liu</a>,
-              </span>
               <span class="author-block"></span>
               <a target="_blank">Jing Wang</a>,
               <span class="author-block"></span>
@@ -73,7 +72,6 @@
           </div>
         </div>
       </div>
-    </div>
     </div>
   </section>
 
