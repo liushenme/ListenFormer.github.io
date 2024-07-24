@@ -44,18 +44,43 @@
 
 
 
-<section class="hero">
-  <div class="hero-body">
-            <!-- Code Link. -->
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h3 class="xtitle is-1 publication-title">CustomListener:
+              Text-guided Responsive Interaction for User-friendly Listening Head Generation</h3>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block"></span>
+              <a target="_blank">Miao Liu</a>,
+              </span>
+              <span class="author-block"></span>
+              <a target="_blank">Jing Wang</a>,
+              <span class="author-block"></span>
+              <a target="_blank">Xinyuan Qian</a>,
+              <span class="author-block"></span>
+              <a target="_blank">Haizhou Li</a>
+            </div>
+
             <span class="link-block">
-              <a href="https://github.com/liushenme/ListenFormer"
-                 class="external-link button is-normal is-rounded is-dark">
+              <a href="https://github.com/liushenme/ListenFormer" target="_blank" class="external-link button is-normal is-rounded is-dark">
                 <span class="icon">
                   <i class="fab fa-github"></i>
                 </span>
                 <span>Code</span>
               </a>
             </span>
+            <!-- </a>
+            </span> -->
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    </div>
+  </section>
 
 
 <section class="section">
