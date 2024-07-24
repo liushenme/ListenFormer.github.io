@@ -46,11 +46,6 @@
 
   <section class="hero">
     <div class="hero-body">
-      <div class="container is-max-desktop">
-        <div class="columns is-centered">
-          <div class="column has-text-centered">
-            <h3 class="xtitle is-1 publication-title">CustomListener:
-              Text-guided Responsive Interaction for User-friendly Listening Head Generation</h3>
             <div class="is-size-5 publication-authors">
               <!-- Paper authors -->
               <span class="author-block"></span>
@@ -74,12 +69,7 @@
             </span>
             <!-- </a>
             </span> -->
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    </div>
+   </div>
   </section>
 
 
