@@ -47,6 +47,7 @@
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
+	    <h3 class="xtitle is-1 publication-title">ListenFormer: Responsive Listening Head Generation with Non-autoregressive Transformers</h3>
             <div class="is-size-5 publication-authors">
               <!-- Paper authors -->
               <span class="author-block"></span>
