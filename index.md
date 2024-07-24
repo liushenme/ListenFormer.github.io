@@ -44,10 +44,14 @@
 
   <section class="hero">
     <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
             <div class="is-size-5 publication-authors">
               <!-- Paper authors -->
               <span class="author-block"></span>
               <a target="_blank">Miao Liu</a>,
+              </span>
               <span class="author-block"></span>
               <a target="_blank">Jing Wang</a>,
               <span class="author-block"></span>
@@ -66,7 +70,11 @@
             </span>
             <!-- </a>
             </span> -->
-   </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
   </section>
 
 
